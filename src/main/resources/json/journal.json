@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "bookId": 23,
+    "abonementId": 2,
+    "dateOfIssue": "2023-11-11",
+    "dateOfReturn": "2023-12-11",
+    "isReturned": "false"
+  },
+  {
+    "id": 2,
+    "bookId": 2,
+    "abonementId": 2,
+    "dateOfIssue": "2023-10-11",
+    "dateOfReturn": "2023-11-11",
+    "isReturned": "false"
+  },
+  {
+    "id": 3,
+    "bookId": 13,
+    "abonementId": 5,
+    "dateOfIssue": "2023-11-15",
+    "dateOfReturn": "2023-12-15",
+    "isReturned": "false"
+  },
+  {
+    "id": 4,
+    "bookId": 15,
+    "abonementId": 8,
+    "dateOfIssue": "2023-11-15",
+    "dateOfReturn": "2023-12-15",
+    "isReturned": "false"
+  },
+  {
+    "id": 5,
+    "bookId": 25,
+    "abonementId": 3,
+    "dateOfIssue": "2023-09-15",
+    "dateOfReturn": "2023-10-15",
+    "isReturned": "false"
+  }
+]
